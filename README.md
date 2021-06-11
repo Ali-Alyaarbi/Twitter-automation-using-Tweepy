@@ -8,3 +8,5 @@ all moduls need to be installs using pip:
 - Tweepy
 - selenuim # also, you need to download chrome web driver so you use selenuim.
 - pyshorteners
+
+dont forget to follow my twitter bot @GetThis_
